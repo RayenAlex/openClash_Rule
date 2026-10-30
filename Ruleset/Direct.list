@@ -1,0 +1,27 @@
+# 原规则指向 DIRECT；引用时请指定 DIRECT
+# 两份配置均未发现完整覆盖；排除原始清单中的策略冲突。
+
+DOMAIN-SUFFIX,cdn20.com
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,mwcloudcdn.com
+DOMAIN-SUFFIX,mwcname.com
+DOMAIN-KEYWORD,taobao
+DOMAIN-KEYWORD,baidu
+DOMAIN-SUFFIX,caiyunapp.com
+DOMAIN-SUFFIX,cnbeta.com
+DOMAIN-SUFFIX,cnbetacdn.com
+DOMAIN-SUFFIX,cootekservice.com
+DOMAIN-SUFFIX,dgtle.com
+DOMAIN-SUFFIX,g-cores.com
+DOMAIN,cdn.hockeyapp.net
+DOMAIN-SUFFIX,hxcdn.net
+DOMAIN-SUFFIX,licdn.com
+DOMAIN-KEYWORD,officecdn
+DOMAIN-SUFFIX,rarbg.to
+DOMAIN-SUFFIX,speedtest.net
+DOMAIN-SUFFIX,umetrip.com
+DOMAIN-SUFFIX,veryzhun.com
+DOMAIN-SUFFIX,zoho.com
+DOMAIN,injections.adguard.org
+DOMAIN,local.adguard.org
+DOMAIN-KEYWORD,-cn
