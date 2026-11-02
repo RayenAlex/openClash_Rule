@@ -1,6 +1,7 @@
 # 原规则指向 DIRECT；引用时请指定 DIRECT
 # 两份配置均未发现完整覆盖；排除原始清单中的策略冲突。
 
+DOMAIN-SUFFIX,cn
 DOMAIN-SUFFIX,cdn20.com
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,mwcloudcdn.com
